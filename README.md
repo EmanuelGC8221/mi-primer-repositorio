@@ -18,4 +18,4 @@ Git-Hub es un sistema de almacenamiento de código en la nube, el cuál permite 
 
 
 [Explorando GIT y GIT.docx](https://github.com/user-attachments/files/19096724/Explorando.GIT.y.GIT.docx) acá la investigación de git y git-hub desde cero.
-y acá la presentación. 
+y acá la presentación : https://www.canva.com/design/DAGg4ihaOJw/fvDGYibr_DK8o7_hbWVO0w/view?utm_content=DAGg4ihaOJw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0d97633694
